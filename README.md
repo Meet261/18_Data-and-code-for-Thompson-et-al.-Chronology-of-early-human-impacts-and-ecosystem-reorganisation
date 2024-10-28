@@ -1,0 +1,1 @@
+# 18_Data-and-code-for-Thompson-et-al.-Chronology-of-early-human-impacts-and-ecosystem-reorganisation
