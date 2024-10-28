@@ -1,0 +1,12 @@
+name: early_human_impacts
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base=4.2
+  - r-vegan
+  - r-mass
+  - r-svglite
+  - r-tidyverse
+  - r-knitr
+  - r-rmarkdown
